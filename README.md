@@ -1,3 +1,3 @@
 # ldkonline.github.io
 
-###welcome to [my blog](www.ldkonline.com)
+###welcome to [my blog](http://www.ldkonline.com)
